@@ -1,3 +1,9 @@
+# RA: 1051392411014
+# Nome aluno: Ramon Godinho
+# Data: 03/06/2024
+# Descrição: Programa que calcula a média de um aluno e retorna o conceito de acordo com a média.
+print("RA: 1051392411014, Nome: Ramon Godinho, Turma: 1 semestre DSM ")
+
 class calcular_salario:
   def __init__(self, media_hora):
     self.media_hora = media_hora
